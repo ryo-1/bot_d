@@ -1,0 +1,14 @@
+{
+  "name": "yen_sid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "token=xoxb-371707049141-371874426049-hNxEdoYkqMokuAKc0pQui1gy node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.14"
+  }
+}
